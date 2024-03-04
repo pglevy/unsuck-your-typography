@@ -17,3 +17,5 @@ Was Massimo right? Things are bad. But they can get better without too much effo
 Typically we put words into type so they can be read by others. Don’t make things harder than they need to be. By keeping these ten simple tips in mind for any content you’re creating, you’ll be doing your part to make the world a better place for readers.
 
 To take things to the next level, check out the online book, [Butterick’s Practical Typography](https://practicaltypography.com/). Have questions? Just ask. Designers: if you think it worthy, share with non-designers who need the help.
+
+*Originally posted on the [Designer Sketches Substack](https://designersketches.substack.com/p/unsuck-your-typography-10-tips-anyone)*
