@@ -8,17 +8,17 @@
     content="{{ site.data.metadata.description | default: 'Free, easy, low-tech website template using GitHub Pages' }}">
   <meta name="viewport" content="width=device-width, initial-scale=1">
   <meta name="color-scheme" content="light dark">
-  <link rel="icon" href="{{ site.baseurl }}/favicon.ico" sizes="any">
+  <link rel="icon" href="favicon.ico" sizes="any">
   <link rel="stylesheet"
-    href="{% if site.useLocalCss == true %}{{ site.baseurl }}/assets/css/pico.blue.min.css{% else %}https://cdn.jsdelivr.net/npm/@picocss/pico@2/css/pico.blue.min.css{% endif %}">
-  <link rel="stylesheet" href="{{ site.baseurl }}/assets/css/custom.css">
+    href="{% if site.useLocalCss == true %}{{ site.baseurl }}assets/css/pico.blue.min.css{% else %}https://cdn.jsdelivr.net/npm/@picocss/pico@2/css/pico.blue.min.css{% endif %}">
+  <link rel="stylesheet" href="assets/css/custom.css">
 </head>
 
 <body class="{{ page.body-style }}">
   <main class="{{ page.main-style  | default: 'container' }}">
     {{ content }}
   </main>
-  <script src="{{ site.baseurl }}/assets/js/main.js"></script>
+  <script src="assets/js/main.js"></script>
 </body>
 
 </html>

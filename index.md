@@ -9,7 +9,7 @@ We come across lots of bad typography in our everyday lives, usually created by 
 </hgroup>
 
 <figure>
-  <img src="/assets/img/apple-magic-keyboard.png" alt="computer keyboard" />
+  <img src="assets/img/apple-magic-keyboard.png" alt="computer keyboard" />
   <figcaption>Apple Magic Keyboard - US English</figcaption>
 </figure>
 
