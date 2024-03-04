@@ -12,7 +12,7 @@ Typography is the “art and technique of arranging type” ([Wikipedia](https:/
 
 Was Massimo right? Things are bad. But they can get better without too much effort. There are numerous “ten commandments of type” articles out there, but most of them are written in the jargon of professional designers. The problem is a lot of what we read nowadays is not created by professional designers. It’s the teacher who sends long emails in an indecipherable script font. Or the community newsletter editor who places text over busy images and low-contrast backgrounds. Or the colleague at work who jams walls of small text onto a presentation slide. This post is for the people. Let’s prove Massimo wrong.
 
-[Read the 10 tips](#)
+[Read the 10 tips](https://pglevy.github.io/unsuck-your-typography/)
 
 Typically we put words into type so they can be read by others. Don’t make things harder than they need to be. By keeping these ten simple tips in mind for any content you’re creating, you’ll be doing your part to make the world a better place for readers.
 
