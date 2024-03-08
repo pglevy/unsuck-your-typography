@@ -70,4 +70,4 @@ One of the most subtle but effective ways to elevate your typography is to use p
 
 ---
 
-[About this project](https://github.com/pglevy/unsuck-your-typography#readme)
+Made with 🤖 on [GitHub](https://github.com/pglevy/unsuck-your-typography#readme)
